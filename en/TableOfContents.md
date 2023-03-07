@@ -1,14 +1,8 @@
 ---
-title: "ConEmu | Documentation Table of Contents"
+title: "error found"
 
-description: "ConEmu Documentation Table of Contents:
-   About, Installation, Terms, Launch apps, Settings, Features, etc."
-
-h1_title: ConEmu Documentation Topics
-
-otherlang:
-   en: /en/TableOfContents.html
-   ru: /ru/TableOfContents.html
+description: "Hello I'm sorry i had to write this here. I found an error on the console. When you want to create a new file using "touch 'filename.
+txt'" or any extension, it does not work. Please how do i correct this error?
 ---
 
 {% include toc.md %}
